@@ -1,6 +1,6 @@
 # Fetch 🖨️
 
-> **One protocol. Every printer. Every feature.**
+> **Humans and Paper alike. (cringe, ik)**
 
 Fetch is an open-source printing protocol and ecosystem designed to make printing and scanning simple, universal, and manufacturer-independent.
 
