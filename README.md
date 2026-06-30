@@ -159,22 +159,6 @@ Requirements include:
 
 ---
 
-## Repository Structure
-
-```text
-docs/
-examples/
-reference/
-
-README.md
-SPEC.md
-ROADMAP.md
-CONTRIBUTING.md
-LICENSE
-```
-
----
-
 ## Contributing
 
 Contributions are welcome.
