@@ -1,3 +1,4 @@
+![Fetch Banner](assets/banner.png)
 # Fetch 🖨️
 
 > **Humans and Paper alike. (cringe, ik)**
