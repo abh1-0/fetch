@@ -1,0 +1,13 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetch protocol reference implementations",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "npm run start --workspaces --if-present",
+    "dev": "npm run dev --workspaces --if-present"
+  }
+}

@@ -1,28 +1,28 @@
 # Roadmap
 
-## Phase 1
-- Protocol draft
-- Repository setup
-- Capability model
-- Discovery specification
+The Fetch protocol development is structured in clear phases. Progress is tracked below.
 
-## Phase 2
-- Reference desktop client
-- Printer simulator
-- Basic printing
+## [x] Phase 1: Protocol & Prototype Setup
+- [x] Protocol draft specifications (`SPEC.md`)
+- [x] Repository setup and documentation redesign
+- [x] Monorepo architecture configured
 
-## Phase 3
-- Android client
-- Scanning
-- Queue management
+## [ ] Phase 2: Reference Implementations
+- [ ] Printer Simulator package (Node.js/mDNS)
+- [ ] Desktop/Web Reference Client (React/Vite)
+- [ ] Basic printing flow across network
 
-## Phase 4
-- Embedded SDK
-- Compliance tests
-- Fetch Certified program
+## [ ] Phase 3: Advanced Features
+- [ ] Android Client SDK
+- [ ] iOS Client SDK
+- [ ] Scanning and OCR support
+- [ ] Job Queue Management
+
+## [ ] Phase 4: Hardware & Compliance
+- [ ] Embedded SDK (C/C++ for microcontrollers)
+- [ ] Compliance tests and CI/CD pipelines
+- [ ] "Fetch Certified" program guidelines
 
 ## Long-term Vision
-
-- Native firmware support
-- Manufacturer adoption
-- Cross-platform ecosystem
+- Native firmware support integrated by major manufacturers.
+- A fully cross-platform, manufacturer-independent printing ecosystem.
